@@ -126,7 +126,7 @@ If you have any questions please contact me by email or through my GitHub profil
 Licensed under the ${answer.license} license. Use the following link for permissions and allowances:
 ${licensesObject[userLicense][1]}`
         
-        fs.writeFile('readMeTest.md', readMeData, function (err) {
+        fs.writeFile('SampleREADME.md', readMeData, function (err) {
             if (err) {
                 return console.log(err);
             }
@@ -137,3 +137,6 @@ ${licensesObject[userLicense][1]}`
 
 // Function call to initialize app
 init();
+
+//embeded code for demo video
+<iframe src="https://drive.google.com/file/d/1Zf0uZcUX8yj2DVxMCuHm6119DShBpjSp/preview" width="640" height="480"></iframe>
