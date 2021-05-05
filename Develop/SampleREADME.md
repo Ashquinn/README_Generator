@@ -1,7 +1,7 @@
 # Sample Title ![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)
 
 ## Description
-This section will allow users to input a high quality description of thir application.
+A description of the project will go here
 
 ## Table of Contents
         
@@ -13,22 +13,22 @@ This section will allow users to input a high quality description of thir applic
 - [License](#license)
         
 ## Installation     
-users will input thier installation instructions here.
+The installation instructions will be typed here.
         
 ## Usage
-The user will now list instructions on how to use the application.
+User will input the instructions on how to use the app here.
         
 ## Contributing       
-In order for users to contribute to the project...
+This is how users can coontribute to the project
         
 ## Tests        
-There are currently no test for the project.
+These are the test for the project
         
 ## Questions       
 If you have any questions please contact me by email or through my GitHub profile
         
-* GitHub Profile: John Doe@github.com
-* Email: johndoe@email.com
+* GitHub Profile: Johndoe
+* Email: JohnDoe@email.com
         
 ## License ![License](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)     
 Licensed under the Mozilla Public License 2.0 license. Use the following link for permissions and allowances:

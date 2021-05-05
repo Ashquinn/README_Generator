@@ -41,6 +41,7 @@ THEN I am taken to the corresponding section of the README
 
 ## Demo 
 
+![Readme Image](assets/images/READMEscreenshot.png)
 
 ## Questions       
 If you have any questions please contact me by email or through my GitHub profile

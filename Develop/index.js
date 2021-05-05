@@ -137,6 +137,3 @@ ${licensesObject[userLicense][1]}`
 
 // Function call to initialize app
 init();
-
-//embeded code for demo video
-<iframe src="https://drive.google.com/file/d/1Zf0uZcUX8yj2DVxMCuHm6119DShBpjSp/preview" width="640" height="480"></iframe>
